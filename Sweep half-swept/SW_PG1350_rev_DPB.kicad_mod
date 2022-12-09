@@ -28,8 +28,6 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp bd4fdecf-0aa4-4c3a-b1ad-c84eec3c46d0)
   )
-  (fp_line (start 6.858 -6.858) (end 4.826 -6.858) (layer "B.SilkS") (width 0.12) (tstamp 7cb06125-40da-4bc6-82c7-911d7cdba798))
-  (fp_line (start 6.858 -6.858) (end 6.858 -4.826) (layer "B.SilkS") (width 0.12) (tstamp d270d7cf-df83-4ad3-b02e-cdf0ad19b3e5))
   (fp_line (start -8.6 8.49968) (end 8.635989 8.500406) (layer "Eco1.User") (width 0.12) (tstamp 00c8dce9-a39c-4f61-b0d0-80c7b2970cb0))
   (fp_line (start -8.63 -8.5) (end 8.599915 -8.5) (layer "Eco1.User") (width 0.12) (tstamp a3d0b440-8a18-4516-8084-b2e0323f2684))
   (fp_line (start -9.000406 8.135669) (end -8.994011 -8.099594) (layer "Eco1.User") (width 0.12) (tstamp be57198e-ce77-48ae-9525-5501aebe0034))

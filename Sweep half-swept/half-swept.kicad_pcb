@@ -3677,11 +3677,11 @@
     (tedit 5F880A3E) (tstamp 00000000-0000-0000-0000-0000608b49d9)
     (at 72.58 42.98)
     (attr through_hole)
-    (fp_text reference "REF**" (at 7.6835 1.4605) (layer "F.Fab")
+    (fp_text reference "REF**" (at 7.6835 1.4605) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a257e773-fd19-42e8-b6aa-1eb5fb03f01b)
     )
-    (fp_text value "Tenting Puck" (at 8.0645 -2.8575) (layer "F.Fab")
+    (fp_text value "Tenting Puck" (at 8.0645 -2.8575) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 828588c1-b210-4345-b15e-99b7ebfe995c)
     )
